@@ -3,5 +3,8 @@
     "accessibility.signals.lineHasError": {
         "sound": "on"
     },
-    "debug.onTaskErrors": "showErrors"
+    "debug.onTaskErrors": "showErrors",
+    "files.associations": {
+        "iostream": "cpp"
+    }
 }
